@@ -1,6 +1,6 @@
 ### Hi there 💗
- - 🌱 I’m currently learning Python and React! ...
- - 📫 Currently looking for Software enginnering job
+ - 🌱 I’m currently learning Python and React!
+ - 📫 Currently looking for Software enginnering jobs
 
 
 <!--
