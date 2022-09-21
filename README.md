@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 💗
+ - 🌱 I’m currently learning Python and React! ...
+ - 📫 Currently looking for Software enginnering job
+
 
 <!--
 **emarahch/emarahch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
