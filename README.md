@@ -1,4 +1,4 @@
-### Hi there 💗
+### Hi 💗
  - 🌱 I’m currently learning NodeJS and React!
  - 📫 Currently looking for Software enginnering jobs
 
